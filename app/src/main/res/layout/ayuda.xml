@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@mipmap/istloja"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal">
+
+	<TextView
+		android:id="@+id/textView"
+		android:layout_width="wrap_content"
+		android:layout_height="209dp"
+		android:layout_weight="1"
+		android:text="Esta es la ayuda del ISTLOJA"
+		android:textColor="#0B0B0B"
+		android:textSize="18sp" />
+
+</LinearLayout>
